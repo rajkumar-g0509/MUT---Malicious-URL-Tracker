@@ -1,0 +1,11 @@
+{
+  "weights": {
+    "homoglyph": 0.4,
+    "entropy": 0.3,
+    "brand": 0.3
+  },
+  "thresholds": {
+    "suspicious": 30,
+    "highRisk": 70
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "brands": [
+    "google","gmail","youtube","facebook","instagram","whatsapp",
+    "amazon","flipkart","ebay",
+    "paypal","paytm","phonepe","gpay","stripe",
+    "apple","icloud","microsoft","outlook","office365",
+    "netflix","spotify","hotstar",
+    "linkedin","twitter",
+    "dropbox","adobe","salesforce",
+    "zoom","slack",
+    "github","gitlab",
+    "aws","azure",
+    "hdfc","icici","sbi","axisbank","kotak",
+    "bankofamerica","wellsfargo","chase"
+  ]
+}
